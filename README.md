@@ -2,6 +2,8 @@
 
 Library for play audio on cross platform and support server side
 
+only dart
+
 ```dart
 import 'package:miniaudio/miniaudio.dart'; 
 void main() {
