@@ -1,13 +1,11 @@
-# Mini audio
+IyBNaW5pIGF1ZGlvCgpMaWJyYXJ5IGZvciBwbGF5IGF1ZGlvIG9uIGNyb3Nz
+IHBsYXRmb3JtIGFuZCBzdXBwb3J0IHNlcnZlciBzaWRlCgpvbmx5IGRhcnQK
+CmBgYGRhcnQKaW1wb3J0ICdwYWNrYWdlOm1pbmlhdWRpby9taW5pYXVkaW8u
+ZGFydCc7IAp2b2lkIG1haW4oKSB7CiAgQXVkaW8gYXVkaW8gPSBBdWRpbygi
+YXVkaW8uc28iKTsKICBhdWRpby5wbGF5KCIvaG9tZS9oZXhhbWluYXRlL0Rv
+Y3VtZW50cy9IRVhBTUlOQVRFL2FwcC9hdWRpb3BsYXllcnMvbWluaWF1ZGlv
+L2F1ZGlvLm1wMyIpOwp9CmBgYA==
 
-Library for play audio on cross platform and support server side
-
-only dart
-
-```dart
-import 'package:miniaudio/miniaudio.dart'; 
-void main() {
-  Audio audio = Audio("audio.so");
-  audio.play("/home/hexaminate/Documents/HEXAMINATE/app/audioplayers/miniaudio/audio.mp3");
-}
-```
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
